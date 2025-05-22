@@ -9,8 +9,7 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 ### Links
 
 - [Challenge URL:](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)  
-- [Solution URL:](https://your-solution-url.com)
-- [Live Site URL:](https://your-live-site-url.com)
+- [Live Site URL:](https://friedmantech.github.io/qr-code/)
 
 
 ### Built with
